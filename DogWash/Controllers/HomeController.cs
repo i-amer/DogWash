@@ -26,5 +26,12 @@ namespace DogWash.Controllers
 
             return View();
         }
+        public ActionResult Schedule()
+        {
+            ViewBag.Message = "Your schedule page.";
+
+            return View();
+        }
+
     }
 }
