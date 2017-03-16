@@ -15,20 +15,20 @@ namespace DogWash.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Dog Wash";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Dog Wash";
 
             return View();
         }
         public ActionResult Schedule()
         {
-            ViewBag.Message = "Your schedule page.";
+            ViewBag.Message = "View Schedules Here";
 
             return View();
         }

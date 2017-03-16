@@ -142,7 +142,7 @@ namespace DogWash.Controllers
             return View();
         }
 
-        //
+
         // POST: /Account/Register
         [HttpPost]
         [AllowAnonymous]

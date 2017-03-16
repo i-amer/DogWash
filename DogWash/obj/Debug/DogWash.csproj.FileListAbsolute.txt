@@ -283,6 +283,8 @@ C:\Users\Martin\DogWash\Clone02\DogWash\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\Martin\DogWash\Clone02\DogWash\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Martin\DogWash\Clone02\DogWash\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Martin\DogWash\Clone02\DogWash\bin\Microsoft.AI.Web.xml
-C:\Users\Martin\DogWash\Clone02\DogWash\obj\Debug\DogWash.csprojResolveAssemblyReference.cache
 C:\Users\Martin\DogWash\Clone02\DogWash\obj\Debug\DogWash.dll
 C:\Users\Martin\DogWash\Clone02\DogWash\obj\Debug\DogWash.pdb
+C:\Users\Martin\DogWash\Clone02\DogWash\obj\Debug\DogWash.Migrations.Initial.resources
+C:\Users\Martin\DogWash\Clone02\DogWash\obj\Debug\DogWash.csproj.GenerateResource.Cache
+C:\Users\Martin\DogWash\Clone02\DogWash\obj\Debug\DogWash.csprojResolveAssemblyReference.cache
